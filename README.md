@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toeydaosiri
 - 👀 I’m interested in finance, crypto, and data analytics
 - 🌱 I’m currently learning databases and SQL
-- 💞️ I’m looking to collaborate on financial data analytics project; could be just port optimization, trading strategy, finding the so-called alpha
+- 💞️ I’m looking to collaborate on financial data analytics project; port optimization, trading strategy
 - 📫 How to reach me daosiri.k@gmail.com 
 
 <!---
